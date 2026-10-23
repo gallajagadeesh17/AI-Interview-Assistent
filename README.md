@@ -287,15 +287,17 @@ python -m unittest tests.test_resume_workflow_real
 
 ---
 
-## 🤝 Contributing
+## 
+ 👥 Project Team
 
-Contributions, issues, and feature requests are welcome!
+This project was collaboratively developed by a team of B.Tech students at **Ganpat University**.
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+| No. | Team Member |
+|---:|---|
+| 1 | Galla jagadeesh  |
+| 2 | Devarapu Prakash |
+| 3 | Srinivas Reddy   |
+| 4 | Linga Chary      |
 
 ---
 
@@ -304,5 +306,3 @@ Contributions, issues, and feature requests are welcome!
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
-
-**Developed with ❤️ by [Galla Jagadeesh](https://github.com/gallajagadeesh17)**
